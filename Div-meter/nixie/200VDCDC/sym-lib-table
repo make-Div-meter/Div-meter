@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name 200VDCDC)(type Legacy)(uri ${KIPRJMOD}/200VDCDC.lib)(options "")(descr ""))
-)
